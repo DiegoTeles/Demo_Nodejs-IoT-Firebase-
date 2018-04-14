@@ -1,0 +1,23 @@
+{
+  "name": "Demon_IoT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cylon": "^1.3.0",
+    "cylon-api-http": "^0.4.1",
+    "cylon-api-socketio": "^0.4.0",
+    "cylon-firmata": "^0.24.0",
+    "cylon-sphero": "^0.23.0",
+    "firebase": "^4.12.1",
+    "johnny-five": "^0.14.3",
+    "nodemon": "^1.17.3",
+    "serialport": "^6.1.1"
+  }
+}
